@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="message">Message</string>
+    <string name="send_message">Send message</string>
+    <string name="send_message_to_activity">Send message to activity</string>
+    <string name="message_2">Message</string>
+    <string name="send_message_2">Send message</string>
+    <string name="send_message_to_activity_2">Send message to activity</string>
+</resources>
